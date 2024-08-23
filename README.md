@@ -13,7 +13,7 @@ Este curso está diseñado para principiantes que desean adentrarse en el fascin
 - 📊 Diseño de tablas y relaciones
 - 🔠 Lenguaje SQL fundamental
 - 🔑 Consultas básicas y avanzadas
-- 🔒 Seguridad y gestión de usuarios
+
 
 ## 🛠️ Requisitos previos
 
@@ -23,14 +23,14 @@ Este curso está diseñado para principiantes que desean adentrarse en el fascin
 
 ## 📂 Estructura del curso
 
-1. [Introducción a las bases de datos](./01_introduccion.md)
-2. [Instalación y configuración de PostgreSQL](./02_instalacion.md)
-3. [Creación de bases de datos y tablas](./03_creacion_bd.md)
-4. [Consultas básicas SELECT](./04_select_basico.md)
-5. [Filtrado de datos con WHERE](./05_where.md)
-6. [Joins y relaciones entre tablas](./06_joins.md)
-7. [Funciones y agregaciones](./07_funciones.md)
-8. [Proyecto final](./08_proyecto_final.md)
+1. [Introducción a las bases de datos](/clases/01_introduccion.md)
+2. [Instalación y configuración de PostgreSQL](/clases/02_instalacion.md)
+3. [Creación de bases de datos y tablas](/clases/03_creacion_bd.md)
+4. [Consultas básicas SELECT](/clases/04_select_basico.md)
+5. [Filtrado de datos con WHERE](/clases/05_where.md)
+6. [Joins y relaciones entre tablas](/clases/06_joins.md)
+7. [Funciones y agregaciones](/clases/07_funciones.md)
+8. [Proyecto final](/clases/08_proyecto_final.md)
 
 ## 🚀 ¡Comienza tu viaje!
 
