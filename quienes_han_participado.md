@@ -41,9 +41,9 @@ Si eres participante del curso y quieres añadir tu proyecto a esta lista:
 
 ## 📊 Estadísticas del Curso
 
-- Total de participantes: 6
-- Proyectos completados: 6
-- Grupos formados: 3
+- Total de participantes: 4
+- Proyectos completados: 4
+
 
 ## 🏆 Reconocimientos
 
