@@ -1,42 +1,35 @@
 # 👥 Participantes del Curso de PostgreSQL 🐘
 
-¡Bienvenido al directorio de participantes de nuestro curso de Fundamentos de Bases de Datos con PostgreSQL! Aquí encontrarás información sobre los proyectos desarrollados por nuestros estudiantes.
+¡Bienvenido al directorio de participantes de nuestro curso de Fundamentos de Bases de Datos con PostgreSQL! 
+Aquí encontrarás información sobre los proyectos desarrollados por nuestros estudiantes.
 
 ## 📅 Grupos por Fecha
 
-### 📆 Agosto 2024
+### 📆 Junio 25 2024
 
-#### 🚀 Grupo 1 (01/08/2024 - 15/08/2024)
+#### 🚀 Grupo 1 
 
-1. **María Gómez**
-   - 🔗 [Repositorio](https://github.com/mariagomez/proyecto-postgresql)
-   - 📝 Resumen: Sistema de gestión de inventario para una tienda de ropa.
+1. **Diego Lozano**
+   - 🔗 [Repositorio](https://github.com/diegolozadev/BD_ENTELEQUIA_STORE)
+   - 📝 Resumen: Base de datos de una tienda de ropa de hombre y mujer, con envíos nacionales, ubicada en el ciudad de Bucaramanga.
 
-2. **Juan Pérez**
-   - 🔗 [Repositorio](https://github.com/juanperez/db-proyecto)
-   - 📝 Resumen: Base de datos para una biblioteca comunitaria.
+2. **Dilio Mendez**
+   - 🔗 [Repositorio](https://github.com/JoseMendezA/ERP_Open_Source)
+   - 📝 Resumen: Planificación de recursos empresariales para el manejo eficiente de una empresa
 
-#### 🚀 Grupo 2 (16/08/2024 - 30/08/2024)
 
-3. **Ana Martínez**
-   - 🔗 [Repositorio](https://github.com/anamartinez/postgres-project)
-   - 📝 Resumen: Sistema de reservas para un restaurante local.
+3. **Luis Silva**
+   - 🔗 [Repositorio](https://github.com/edduarddo15/transportesLogisticos)
+   - 📝 Resumen: Aquí se encuentra un modelo de base de datos para una empresa de transportes logísticos.
 
-4. **Carlos Rodríguez**
-   - 🔗 [Repositorio](https://github.com/carlosrodriguez/mi-proyecto-db)
-   - 📝 Resumen: Base de datos para seguimiento de pacientes en una clínica.
+4. **Orlando Rozo**
+   - 🔗 [Repositorio](https://github.com/ROGO2108/BD_VARIABLES_CREDITO)
+   - 📝 Resumen: El fin de esta BD es recopilar la información suficiente para lograr tener una correcta decisión al momento de otorgar un crédito
+
 
 ### 📆 Septiembre 2024
 
-#### 🚀 Grupo 3 (01/09/2024 - 15/09/2024)
 
-5. **Laura Sánchez**
-   - 🔗 [Repositorio](https://github.com/laurasanchez/proyecto-final-postgresql)
-   - 📝 Resumen: Sistema de gestión de tareas para una empresa de desarrollo de software.
-
-6. **Miguel Ángel Torres**
-   - 🔗 [Repositorio](https://github.com/migueltorres/db-proyecto-final)
-   - 📝 Resumen: Base de datos para un sistema de alquiler de vehículos.
 
 ## 🌟 ¿Cómo añadir tu proyecto?
 
@@ -55,6 +48,9 @@ Si eres participante del curso y quieres añadir tu proyecto a esta lista:
 ## 🏆 Reconocimientos
 
 Queremos felicitar a todos los participantes por su arduo trabajo y dedicación. ¡Cada proyecto es único y valioso!
+
+1. **Orlando Rozo**
+
 
 ---
 
